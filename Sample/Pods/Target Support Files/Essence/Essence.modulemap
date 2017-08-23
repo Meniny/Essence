@@ -1,0 +1,6 @@
+framework module Essence {
+  umbrella header "Essence-umbrella.h"
+
+  export *
+  module * { export * }
+}
