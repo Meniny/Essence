@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/Meniny/Essence'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Andrea Mario Lufino' => 'andrea.lufino@me.com' }
-  s.source           = { :git => 'https://github.com/Meniyn/Essence.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/Meniny/Essence.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '8.0'
 
