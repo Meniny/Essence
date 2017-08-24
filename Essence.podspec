@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'Essence'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = 'The Essence of your iOS device.'
 
   s.homepage         = 'https://github.com/Meniny/Essence'

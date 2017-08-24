@@ -182,6 +182,18 @@ public extension Essence {
         return ESSystem.version
     }
     
+    public static var isSimulator: Bool {
+        return ESDevice.isSimulator
+    }
+    
+    public static var isPad: Bool {
+        return ESDevice.isPad
+    }
+    
+    public static var isPhone: Bool {
+        return ESDevice.isPhone
+    }
+    
     /// Number of processors
     public static var processorCount: Int {
         return ESProcessor.count
